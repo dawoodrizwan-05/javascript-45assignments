@@ -1,0 +1,10 @@
+var arr = ["pakistan", "america", "canada", "swizerland", "germany"];
+console.log(arr);
+console.log(arr.slice().sort());
+console.log(arr);
+console.log(arr.reverse());
+console.log(arr);
+console.log(arr.reverse());
+console.log(arr.reverse());
+console.log(arr.sort());
+console.log(arr.reverse());
